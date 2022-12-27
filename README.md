@@ -1,7 +1,7 @@
 # Halo semua! 
 
-Project kali ini bagian dari tugas Submission SIB Dicoding bernama **Aplikasi github user submission 2**.\
-**Apliksi github user subm 1** adalah aplikasi android yang menampilkan informasi dari Api github.
+Project kali ini bagian dari tugas Submission SIB Dicoding bernama **Aplikasi github user submission 3 (final)**.\
+**Apliksi github user** adalah aplikasi android yang menampilkan informasi dari Api github.
 
 Gambaran Sistem :\
 Fitur yang ada pada aplikasi:
